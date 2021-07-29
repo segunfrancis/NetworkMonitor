@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NetworkMonitorSample</string>
+    <string name="text_network_available">Network Available</string>
+    <string name="text_network_unavailable">Network Not Available</string>
+</resources>
